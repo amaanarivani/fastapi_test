@@ -5,7 +5,6 @@ __pycache__/
 
 # C extensions
 *.so
-
 # Distribution / packaging
 .Python
 build/
@@ -29,10 +28,11 @@ MANIFEST
 # Virtual environment
 env/
 venv/
+.venv/
+Lib/
 ENV/
 VENV/
 .env/
-.venv/
 pip-selfcheck.json
 
 # PyInstaller
